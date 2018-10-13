@@ -1,0 +1,10 @@
+c:\users\alia2\source\repos\proga1 na kyrsy\proga1 na kyrsy\bin\Debug\proga1 na kyrsy.exe.config
+c:\users\alia2\source\repos\proga1 na kyrsy\proga1 na kyrsy\bin\Debug\proga1 na kyrsy.exe
+c:\users\alia2\source\repos\proga1 na kyrsy\proga1 na kyrsy\bin\Debug\proga1 na kyrsy.pdb
+c:\users\alia2\source\repos\proga1 na kyrsy\proga1 na kyrsy\obj\Debug\proga1 na kyrsy.csprojAssemblyReference.cache
+c:\users\alia2\source\repos\proga1 na kyrsy\proga1 na kyrsy\obj\Debug\proga1_na_kyrsy.Form1.resources
+c:\users\alia2\source\repos\proga1 na kyrsy\proga1 na kyrsy\obj\Debug\proga1_na_kyrsy.Properties.Resources.resources
+c:\users\alia2\source\repos\proga1 na kyrsy\proga1 na kyrsy\obj\Debug\proga1 na kyrsy.csproj.GenerateResource.cache
+c:\users\alia2\source\repos\proga1 na kyrsy\proga1 na kyrsy\obj\Debug\proga1 na kyrsy.csproj.CoreCompileInputs.cache
+c:\users\alia2\source\repos\proga1 na kyrsy\proga1 na kyrsy\obj\Debug\proga1 na kyrsy.exe
+c:\users\alia2\source\repos\proga1 na kyrsy\proga1 na kyrsy\obj\Debug\proga1 na kyrsy.pdb
