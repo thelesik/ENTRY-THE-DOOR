@@ -1,0 +1,10 @@
+C:\Users\alia2\source\repos\proga2\proga2\bin\Debug\proga2.exe.config
+C:\Users\alia2\source\repos\proga2\proga2\bin\Debug\proga2.exe
+C:\Users\alia2\source\repos\proga2\proga2\bin\Debug\proga2.pdb
+C:\Users\alia2\source\repos\proga2\proga2\obj\Debug\proga2.csprojAssemblyReference.cache
+C:\Users\alia2\source\repos\proga2\proga2\obj\Debug\proga2.Form1.resources
+C:\Users\alia2\source\repos\proga2\proga2\obj\Debug\proga2.Properties.Resources.resources
+C:\Users\alia2\source\repos\proga2\proga2\obj\Debug\proga2.csproj.GenerateResource.cache
+C:\Users\alia2\source\repos\proga2\proga2\obj\Debug\proga2.csproj.CoreCompileInputs.cache
+C:\Users\alia2\source\repos\proga2\proga2\obj\Debug\proga2.exe
+C:\Users\alia2\source\repos\proga2\proga2\obj\Debug\proga2.pdb
